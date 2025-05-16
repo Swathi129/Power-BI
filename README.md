@@ -26,9 +26,9 @@ Blinkit faces challenges in understanding its sales dynamics and customer prefer
 
 ## Dataset Overview
 
-- 📦 **Source**: Public dataset shared by (https://www.kaggle.com/datasets/irshad9322/blinkit-sales-project-on-powerbi)
-- 📊 **Records**: 8,524 rows  
-- 🧩 **Features**: 12 columns including: Item Fat Content, Item Identifier, Item Type, Outlet Establishment Year, Outlet Identifier, Outlet Location Type, Outlet Size, Outlet Type, Item Visibility, Item Weight, Sales, Rating
+- **Source**: Public dataset shared by (https://www.kaggle.com/datasets/irshad9322/blinkit-sales-project-on-powerbi)
+- **Records**: 8,524 rows  
+- **Features**: 12 columns including: Item Fat Content, Item Identifier, Item Type, Outlet Establishment Year, Outlet Identifier, Outlet Location Type, Outlet Size, Outlet Type, Item Visibility, Item Weight, Sales, Rating
 
 ## Tools Used
 -	Power BI: For data visualization and analysis.
